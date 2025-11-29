@@ -19,24 +19,23 @@
 
 ```typescript
 const developer = {
-    name: "Your Name",
+    name: "Zees",
     location: "Surakarta, Indonesia 🇮🇩",
-    role: "Full Stack Developer",
+    role: "Junior Developer",
     code: ["JavaScript", "TypeScript", "Python", "Java"],
-    askMeAbout: ["web dev", "backend", "cloud architecture", "UI/UX"],
+    askMeAbout: ["web dev", "backend",],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
+            css: ["Tailwind", "Bootstrap",]
         },
         backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "FastAPI"],
-            java: ["Spring Boot"]
+            js: ["Express"],
+            python: ["FastAPI"],
         },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "GitHub Actions"],
-        tools: ["Git", "Postman", "Figma", "VS Code"]
+        databases: ["MongoDB", "MySQL",],
+        devOps: ["Docker", "AWS", "GitHub Actions"],
+        tools: ["Git", "Postman", "Figma", "VS Code", "Cursor"]
     },
     currentFocus: "Building scalable microservices and exploring AI integration",
     funFact: "I debug with console.log() and I'm not ashamed! ☕"
@@ -55,11 +54,8 @@ const developer = {
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -82,78 +78,9 @@ const developer = {
 
 <div align="center">
   
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true)](https://github.com/yourusername)
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Arizh2005)
   
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 E-Commerce Platform
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-Full-stack e-commerce solution with payment integration, real-time inventory, and admin dashboard.
-
-[![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/yourusername/project1)
-[![Demo](https://img.shields.io/badge/Demo-Live%20Site-green?style=flat-square&logo=vercel)](https://project1-demo.vercel.app)
-
-</td>
-<td width="50%">
-
-### 🤖 AI Chatbot Assistant
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-Intelligent chatbot using NLP for customer support automation with 95% accuracy rate.
-
-[![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/yourusername/project2)
-[![Demo](https://img.shields.io/badge/Demo-Live%20Site-green?style=flat-square&logo=vercel)](https://project2-demo.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📱 Social Media Dashboard
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-Analytics dashboard for social media management with real-time data visualization.
-
-[![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/yourusername/project3)
-[![Demo](https://img.shields.io/badge/Demo-Live%20Site-green?style=flat-square&logo=vercel)](https://project3-demo.vercel.app)
-
-</td>
-<td width="50%">
-
-### 🎮 Game Leaderboard API
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-RESTful API for game leaderboards with Redis caching and Docker deployment.
-
-[![Repo](https://img.shields.io/badge/Repo-View%20Code-blue?style=flat-square&logo=github)](https://github.com/yourusername/project4)
-[![Docs](https://img.shields.io/badge/Docs-API%20Docs-orange?style=flat-square&logo=swagger)](https://api-docs.example.com)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
